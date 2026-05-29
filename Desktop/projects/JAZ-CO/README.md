@@ -1,1 +1,0 @@
-Hi, This page proves that challenge 1 is succeded!
