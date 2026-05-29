@@ -1,6 +1,6 @@
 # Hi, I'm Jalal 👋
 
-Computer Engineering Graduate from KFUPM 🎖| Full Stack Software Engineer
+Computer Engineering Graduate from KFUPM 🥈| Full Stack Software Engineer
 
 🌍 Georgia Tech Exchange Student  
 🔬 Research Assistant  
